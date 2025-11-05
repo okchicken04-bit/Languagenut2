@@ -40,7 +40,7 @@ document.getElementById("settings_button").addEventListener("click", () => {
 
 // Close settings on Escape key
 document.addEventListener('keydown', function(event) {
-    if (event.key === 'Escape') {
+    if (event.key === 'Shift') {
         document.getElementById("settings").close();
     }
 });
@@ -477,4 +477,5 @@ class ClientApplication {
 
 // Initialize application
 app = new ClientApplication();
+
 app.main();
