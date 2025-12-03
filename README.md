@@ -3,7 +3,7 @@
 A simple website to help automate your Languagenut homework.  
 This repo contains the source files for the project.
 
-Website: [New Website](https://z3phydev.github.io/FLNHH/)
+okchicken04-bit.github.io/Languagenut2
 
 ---
 
